@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+    height: auto;
+    background: linear-gradient(to right, red, yellow, green, blue);
+    text-align: center;
+}
+.h3_output{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
